@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#include "lab4.h"
+#include "program.h"
 #include <stdlib.h>
 int main(int argc,char *argv[]){
 int converted_day;
